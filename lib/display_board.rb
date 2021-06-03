@@ -8,9 +8,15 @@ def display_board(board[1])
    puts row = ["   " "|" "   " "|" "   "]
   end
  
- 
+ def display_board(board[2])
+   puts row = ["   " "|" "   " "|" "   "]
+   puts separator = "-----------"
+   puts row = ["   " "|" "   " "|" "   "]
+   puts separator = "-----------"
+   puts row = ["   " "|" "   " "|" "   "]
+  end
   
-  board = ["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+  board[1] = ["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
   
   
   
