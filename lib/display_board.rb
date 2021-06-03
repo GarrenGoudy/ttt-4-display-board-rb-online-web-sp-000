@@ -9,7 +9,7 @@ def display_board(board)
   end
  
   
-  board = ["   ","   ","   ","   "," X "," X ","   ","   ","   ","   "]
+  board = ["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
   
   a = O
   b = X
