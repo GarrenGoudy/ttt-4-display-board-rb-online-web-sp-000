@@ -12,7 +12,7 @@ def display_board(board)
   
   board = ["   ","   ","   ","   ", "X","   ","   ","   ","   ","   "]
   
-  row1 = [" O " "|" "   " "|" "   "]
+  
   
   
   
