@@ -1,16 +1,16 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 def display_board(board)
-   puts row = ["   " "|" "   " "|" "   "]
+   puts row = [" O " "|" "   " "|" "   "]
    puts separator = "-----------"
-   puts row = ["   " "|" "   " "|" "   "]
+   puts row = ["   " "|" " X " "|" "   "]
    puts separator = "-----------"
    puts row = ["   " "|" "   " "|" "   "]
   end
  
  
   
-  board = [" O ","   ","   ","   "," X ","   ","   ","   ","   ","   "]
+  board = ["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
   
   
   
